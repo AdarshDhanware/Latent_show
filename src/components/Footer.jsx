@@ -37,11 +37,11 @@ function Footer() {
             <p className="text-gray-400 mt-2">Where dreams come to get roasted</p>
           </div>
           
-          <div className="flex gap-6">
+          {/* <div className="flex gap-6">
             {socialLinks.map((link, index) => (
               <SocialLink key={index} {...link} />
             ))}
-          </div>
+          </div> */}
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-500 text-sm">

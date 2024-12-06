@@ -36,8 +36,8 @@ const features = [
   },
   {
     icon: Users,
-    title: "Family Entertainment",
-    description: "Watch contestants' dreams shatter with your loved ones. Quality family time guaranteed!"
+    title: "Entertainment",
+    description: "Watch contestants' dreams shatter with your loved ones. Quality time with your friends and collegues guaranteed!"
   },
   {
     icon: Trophy,
