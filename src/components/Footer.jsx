@@ -47,6 +47,7 @@ function Footer() {
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-500 text-sm">
           <p>© 2024 Oriental's Got Lalent. All rights reserved.</p>
           <p className="mt-2">Disclaimer: No talents were harmed in the making of this show. Only egos.</p>
+          <p className="mt-2">Created by : Adarsh Dhanware and Ashish Kumar Singh</p>
         </div>
       </div>
     </footer>

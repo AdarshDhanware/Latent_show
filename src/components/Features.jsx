@@ -37,12 +37,12 @@ const features = [
   {
     icon: Users,
     title: "Entertainment",
-    description: "Watch contestants' dreams shatter with your loved ones. Quality time with your friends and collegues guaranteed!"
+    description: "Watch amazing performances with some spiced up judging drama. Quality time with friends and colleagues guaranteed."
   },
   {
     icon: Trophy,
     title: "Grand Prize",
-    description: "Win a lifetime supply of reality checks and a trophy that says 'At Least You Tried'"
+    description: "Win a surprise that's absolutely worth it—because trying is just the beginning of something amazing!  "
   }
 ];
 

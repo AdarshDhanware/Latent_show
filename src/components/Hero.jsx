@@ -37,8 +37,9 @@ function Hero() {
             Where talent meets sarcasm, and dreams meet reality checks
           </p>
 
-          <div className="flex justify-center mb-8 slide-up stagger-delay-2">
-            <EventDate date="December 07, 2024" />
+          <div className="flex flex-col items-center gap-3 justify-center mb-8 slide-up stagger-delay-2">
+            <EventDate subHead="Event Starts:" date="December 07, 2024" content="for III sem OIST"/>
+            <p className='md:text-lg text-md'>Stay tuned for more updates</p>
           </div>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center slide-up stagger-delay-3">
