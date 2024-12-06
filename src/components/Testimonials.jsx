@@ -45,9 +45,10 @@ function Testimonials() {
   return (
     <div className="bg-gradient-to-b from-black to-purple-900/20 py-20">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl font-bold text-center text-white mb-16 slide-up">
+        <p className="text-4xl font-bold text-center text-white mb-16 slide-up">
           What Our Contestants Say
-        </h2>
+          <p className='mt-5 text-lg'>ऐ मूर्ख अपनी छवि सुधार !</p>
+        </p>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {testimonials.map((testimonial, index) => (
