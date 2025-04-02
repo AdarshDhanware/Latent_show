@@ -8,7 +8,7 @@ This is a **frontend website** built using **React.js** for the **Oriental Got T
 
 ## 🛠️ Technologies Used
 - **React.js** – Frontend framework for dynamic UI
-- **CSS** – Styling and animations
+- **Tailwind CSS** – Styling and animations
 - **JavaScript** – Interactive components
 
 ## 🎨 Features
